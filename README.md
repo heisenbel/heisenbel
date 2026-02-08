@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=inter&color=D6D6D6&center=false&lines=oi!+sou+a+bel+:];curso+ciência+da+computação;aqui,+você+encontra:;projetos+pessoais+e+colaborações!)](https://github.com/heisenbel)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=inter&color=D6D6D6&center=false&lines=oi!+sou+a+bel+:];curso+ciência+da+computação;aqui,+você+encontra:;projetos+pessoais+e+colaborações!)](https://github.com/belv2)
 <div>
 <a href="https://www.linkedin.com/in/isabel-silverio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
