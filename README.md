@@ -1,4 +1,4 @@
-🎓 Hi! You can call me bel :) I'm 21 years old, and a compsci student at UNIFOR. Also a technician in Electronics from IFCE.
+🎓 Hi! You can call me bel :) I'm 21 years old, and a compsci student @ UNIFOR. Also a technician in Electronics from IFCE.
 
 ☕ Passionate about tech, coding, and currently exploring data & back-end. 
 
